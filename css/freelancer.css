@@ -335,6 +335,10 @@ a {
   color: white;
 }
 
+.bg-white a{
+  color: #EF9723 !important;
+}
+
 a:focus, a:hover, a:active {
   color: white;
   font-style: bold;
